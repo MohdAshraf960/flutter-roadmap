@@ -42,6 +42,7 @@ This roadmap provides a step-by-step guide for beginners to learn Flutter, a pop
    - Learn how to make HTTP requests and handle responses using packages like http or Dio.
    - Explore handling JSON data and parsing it into Dart objects.
    - Integrate API calls into your Flutter app and display dynamic data.
+   - Dartz Package for Error handling
 
 7. **Flutter Packages and Plugins:**
    - Discover the vast ecosystem of Flutter packages available for different functionalities.
