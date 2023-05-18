@@ -19,9 +19,19 @@ This roadmap provides a step-by-step guide for beginners to learn Flutter, a pop
    - Practice building simple Flutter apps with various layouts, buttons, and text inputs.
 
 4. **UI Design in Flutter:**
-   - Explore Flutter's built-in widget library and understand different types of widgets.
-   - Learn how to create visually appealing UI using Flutter's layout widgets (e.g., Container, Column, Row).
-   - Customize app themes, styles, and fonts in Flutter.
+   - Understand Flutter's widget library, which includes various types of widgets:
+     - Basic widgets (e.g., Text, Image, Icon) for displaying content.
+     - Layout widgets (e.g., Container, Column, Row) for arranging and positioning other widgets.
+     - Input widgets (e.g., TextField, Checkbox, Button) for user interaction.
+     - Material Design widgets (e.g., AppBar, Card, FloatingActionButton) for following Google's Material Design guidelines.
+     - Cupertino widgets (e.g., CupertinoNavigationBar, CupertinoButton) for iOS-style interfaces.
+   - Learn how to create visually appealing UI using Flutter's layout widgets like Container, Column, Row.
+   - Customize app themes, styles, and fonts in Flutter to achieve the desired look and feel.
+   - Explore additional widgets:
+     - ListView: Create scrollable lists with ListView.builder, ListView.separated, or ListView.custom.
+     - GridView: Display items in a grid-like structure using GridView.count, GridView.builder, or GridView.extent.
+     - ListTile: Use ListTile to represent individual items in lists or grids, with title, subtitle, icons, and callbacks.
+     - PageView: Implement swipeable sets of pages for onboarding flows, image galleries, or multi-screen scenarios.
 
 5. **State Management:**
    - Understand the concept of state in Flutter and different approaches to managing it.
