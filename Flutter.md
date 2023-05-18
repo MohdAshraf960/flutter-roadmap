@@ -101,6 +101,26 @@ This roadmap provides a step-by-step guide for beginners to learn Flutter, a pop
    - Handle any necessary configuration, authentication, or API key management required by the packages.
    - Test and validate the integration thoroughly to ensure proper functionality and compatibility with your Flutter app.
 
+Certainly! Here's an updated version of the last point with the recommended resources:
+
+15. **Recommended Resources for Learning Flutter:**
+   - Official Flutter Documentation: The official documentation provides comprehensive guides, tutorials, and API references.
+   - Flutter YouTube Channels:
+     - [Flutter YouTube Channel](https://www.youtube.com/c/flutterdev) - The official Flutter YouTube channel with tutorials, talks, and demos.
+     - [HeyFlutter](https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA) - A YouTube channel by HeyFlutter, providing Flutter tutorials and tips.
+     - [Rivan Ranawat](https://www.youtube.com/@RivaanRanawat) - A YouTube channel by Rivan Ranawat, offering Flutter tutorials and projects.
+     - [Reso Coder](https://www.youtube.com/@ResoCoder)
+     - [Techie Blossom](https://www.youtube.com/@techieblossom)
+   - [Udemy Course - Learn Flutter & Dart to Build iOS & Android Apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) by Maximilian Schwarzmüller - A highly recommended course covering Flutter and Dart fundamentals, building real-world apps, and more.
+   - Firebase Setup Tutorial: [Firebase Flutter Setup Tutorial](https://youtu.be/sz4slPFwEvs) - A YouTube tutorial guiding you through the setup process for integrating Firebase with Flutter.
+   - Flutter provider : [Provider Tutorial](https://www.youtube.com/playlist?list=PL3nPgdhXQtHfFl-7fQRrzkKQbS5DPWl_x) A YouTube tutorial
+
+These resources will provide you with a variety of learning materials, including official documentation, YouTube tutorials, and a comprehensive Udemy course. Additionally, the Firebase setup tutorial will help you integrate Firebase services into your Flutter app.
+
+Remember to supplement your learning with practice and hands-on coding projects to reinforce your understanding of Flutter concepts. Enjoy your learning journey with Flutter!
+
+Please note that while these resources are highly recommended, it's always a good idea to read reviews, check the latest ratings, and explore other resources to find the ones that best suit your learning style and needs.
+
 
 Feel free to customize this roadmap according to your learning needs and preferences. Happy coding!
 
