@@ -25,7 +25,7 @@ This roadmap provides a step-by-step guide for beginners to learn Flutter, a pop
 
 5. **State Management:**
    - Understand the concept of state in Flutter and different approaches to managing it.
-   - Learn about setState, BLoC (Business Logic Component) pattern, Provider, and other state management options.
+   - Learn about setState, Provider, and other state management options.
    - Implement basic state management techniques in your Flutter apps.
 
 6. **Networking and Data Handling:**
